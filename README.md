@@ -26,11 +26,9 @@
   <br/>
 </div>
 
-
-These three slogans drive and inspire me in everything I do.<br/>
-**"Dream big, work hard, and make it happen."** <br/>
-**"Opportunities are intertwined with risks; I choose to embrace the risk and pursue it all."** <br/> 
-**"It all comes with great sacrifice, but the rewards are worth the effort."** <br/>
+<div align="center">
+  <strong><em>"Opportunities are intertwined with risks; I choose to embrace the risk and pursue it all."</em></strong>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
