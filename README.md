@@ -32,12 +32,5 @@ These three slogans drive and inspire me in everything I do.<br/>
 **"Opportunities are intertwined with risks; I choose to embrace the risk and pursue it all."** <br/> 
 **"It all comes with great sacrifice, but the rewards are worth the effort."** <br/>
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ndubuisi-Godcares&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
