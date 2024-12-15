@@ -1,4 +1,4 @@
-**`AI | Machine Learning | Deep Learning | Reinforcement Learning`**
+**`AI | Machine Learning | Deep Learning | Reinforcement Learning | Research`**
 ## <img src="https://github.com/user-attachments/assets/47c9c769-4bbe-4d46-95b3-9553a05b5e33" alt="image" width="20"/> Godcares Ndubuisi
 
 - 🔭 Final-year student at **Symbiosis Institute of Technology**, affiliated with **Symbiosis International University**, majoring in **Artificial Intelligence and Machine Learning**.  
