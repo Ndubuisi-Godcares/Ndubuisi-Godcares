@@ -1,4 +1,4 @@
-**`AI | Machine Learning | Deep Learning | Reinforcement Learning | Research`**
+**`AI | Machine Learning  & Deep Learning| FinTech | AI in Security | AI in Healthcare | Reseaech & Development`**
 ## <img src="https://github.com/user-attachments/assets/47c9c769-4bbe-4d46-95b3-9553a05b5e33" alt="image" width="20"/> Godcares Ndubuisi
 
 - 🔭 Graduate of Artificial Intelligence and Machine Learning (AIML) from **Symbiosis Institute of Technology**,an affiliation of **Symbiosis International University**.
