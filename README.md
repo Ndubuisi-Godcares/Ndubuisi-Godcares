@@ -1,7 +1,7 @@
 **`AI | Machine Learning | Deep Learning | Reinforcement Learning | Research`**
 ## <img src="https://github.com/user-attachments/assets/47c9c769-4bbe-4d46-95b3-9553a05b5e33" alt="image" width="20"/> Godcares Ndubuisi
 
-- 🔭 Final-year student at **Symbiosis Institute of Technology**, affiliated with **Symbiosis International University**, majoring in **Artificial Intelligence and Machine Learning**.  
+- 🔭 Graduate of Artificial Intelligence and Machine Learning (AIML) from **Symbiosis Institute of Technology**,an affiliation of **Symbiosis International University**.
 - 🎥 Learn more about my institution on [YouTube](https://youtu.be/XTDdrLlRRdw), [SIU](https://siu.edu.in/), [SIT](https://www.sitpune.edu.in/).  
 - Currently working on various projects and research involving AI applications in **Cybersecurity**, **Finance**, and **Healthcare**.<br/>  
 - 👯 Passionate about **AI applications** and actively looking to collaborate on projects and research related to real-world implementations of **artificial intelligence** in the aforementioned domains.<br/>  
