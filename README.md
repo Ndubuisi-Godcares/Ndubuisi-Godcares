@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems;Advancing+AI+Innovation;Shaping+the+Future+with+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=$+init_ai_system();$+train_rl_agent();$+optimize_llm_pipeline();$+deploy_intelligent_system();$+applied_ai_research();" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Counter -->
@@ -16,9 +16,11 @@
   <img src="https://raw.githubusercontent.com/Ndubuisi-Godcares/Ndubuisi-Godcares/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+<p align = "center"
+  
+  `Reinforcement Learning` &nbsp; `Self-Adaptive AI` &nbsp; `LLM Systems` &nbsp; `FinTech Intelligence` &nbsp; `AI Security` &nbsp; `Applied Research`
 
-`Reinforcement Learning` &nbsp; `Self-Adaptive AI` &nbsp; `LLM Systems` &nbsp; `FinTech Intelligence` &nbsp; `AI Security` &nbsp; `Applied Research`
-
+</p>
 </div>
 
 ---
@@ -81,7 +83,10 @@ me = AIEngineer()
 
 <div align="center">
 
-[![Godcares's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ndubuisi-Godcares&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ndubuisi-Godcares)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ndubuisi-Godcares&bg_color=0a0e27&color=22d3ee&line=38bdf8&point=67e8f9&hide_border=true" />
+</p>
+
 
 </div>
 
