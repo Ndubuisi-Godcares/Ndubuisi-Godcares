@@ -34,7 +34,7 @@ class AIEngineer:
         self.education = "B.Tech Artificial Intelligence and Machine Learning"
         self.role = "AI Engineer & Researcher"
         self.experience = "2+ years"
-        self.current_position = "AI Intern @ LTID"
+        self.current_position = "AI Engineer Intern @ Long Term Industrial Development (LTID)"
         self.focus_areas = [
             "Intelligent Systems Design",
             "Scalable ML Pipelines",
