@@ -141,6 +141,7 @@ me = AIEngineer()
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 ---
+![snake gif](https://raw.githubusercontent.com/Ndubuisi-Godcares/Ndubuisi-Godcares/output/github-snake.svg)
 
 <div align="center">
 
