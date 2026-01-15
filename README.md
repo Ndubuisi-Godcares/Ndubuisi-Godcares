@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- 3D Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Godcares%20Ndubuisi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%26%20Researcher&descAlignY=51&descAlign=50"/>
-
 <!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems;Advancing+AI+Innovation;Shaping+the+Future+with+ML" alt="Typing SVG" />
 </p>
 
-<!-- 3D Profile Views Counter -->
+<!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ndubuisi-Godcares&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -19,44 +16,15 @@
 
 <div align="center">
 
-### 🌐 **Specializations**
+### **Specializations**
 
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://img.icons8.com/clouds/100/000000/artificial-intelligence.png" width="60" height="60"/>
-<br><b>Reinforcement Learning</b>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/clouds/100/000000/brain.png" width="60" height="60"/>
-<br><b>Self-Adaptive AI</b>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/clouds/100/000000/settings.png" width="60" height="60"/>
-<br><b>LLM Systems</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-<img src="https://img.icons8.com/clouds/100/000000/money-bag.png" width="60" height="60"/>
-<br><b>FinTech Intelligence</b>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/clouds/100/000000/security-shield-green.png" width="60" height="60"/>
-<br><b>AI Security</b>
-</td>
-<td align="center" width="200">
-<img src="https://img.icons8.com/clouds/100/000000/research.png" width="60" height="60"/>
-<br><b>Applied Research</b>
-</td>
-</tr>
-</table>
+`Reinforcement Learning` &nbsp; `Self-Adaptive AI` &nbsp; `LLM Systems` &nbsp; `FinTech Intelligence` &nbsp; `AI Security` &nbsp; `Applied Research`
 
 </div>
 
 ---
 
-## 🚀 **About Me**
+## **About Me**
 
 ```python
 class AIEngineer:
@@ -96,28 +64,13 @@ me = AIEngineer()
 
 ---
 
-## 🎓 **Education**
+## **Education**
 
-<div align="center">
+**Degree:** Graduate in Artificial Intelligence and Machine Learning (AIML)
 
-<table>
-<tr>
-<td align="center" width="50%">
+**Institution:** [Symbiosis Institute of Technology (SIT)](https://www.sitpune.edu.in/), [Symbiosis International University (SIU)](https://siu.edu.in/)
 
-### 🏛️ Institution
-**Symbiosis International University (SIU)**  
-[Symbiosis Institute of Technology (SIT)](https://www.sitpune.edu.in/)
-
-</td>
-<td align="center" width="50%">
-
-### 📚 Degree
-**Graduate in Artificial Intelligence**  
-**and Machine Learning (AIML)**
-
-</td>
-</tr>
-</table>
+<br>
 
 [![Campus Tour](https://img.shields.io/badge/🎥_Campus_Tour-Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/XTDdrLlRRdw)
 
@@ -125,15 +78,13 @@ me = AIEngineer()
 
 ---
 
-## 🔬 **Research & Innovation**
+## 🔬 Domain Expertise
 
-<div align="center">
-
-| 🎯 Core Domains | 🚧 Current Projects | 📈 Learning Goals |
-|:---:|:---:|:---:|
-| Machine Learning | AI in Cybersecurity | Advanced ML Pipelines |
-| Neural Networks | Financial Modeling | Cloud Infrastructure |
-| Reinforcement Learning | Healthcare Diagnostics | Scalable Systems |
+| Category | Focus Areas |
+| :--- | :--- |
+| **Professional** | Industrial Scheduling, FinTech (Algo-trading), LLM Optimization |
+| **Research** | AI in Cybersecurity, AI in Healthcare, Predictive Modeling |
+| **Core Tech** | Machine Learning, Deep Learning, Reinforcement Learning |
 
 <br>
 
@@ -144,60 +95,26 @@ me = AIEngineer()
 
 ---
 
-## 💻 **Tech Arsenal**
+## 🛠 Technical Stack
 
-<div align="center">
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### AI & Data Science Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 
-### **AI & Machine Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+### Infrastructure & Tools
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
-### **Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
 ---
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ndubuisi-Godcares&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ndubuisi-Godcares&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndubuisi-Godcares&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ndubuisi-Godcares&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
+## 📈 **Contribution Graph**
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ndubuisi-Godcares&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+[![Godcares's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ndubuisi-Godcares&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/Ndubuisi-Godcares)
 
 </div>
 
@@ -207,31 +124,10 @@ me = AIEngineer()
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/clouds/100/000000/email.png" width="60"/>
-<br>
-<a href="mailto:ndubuisigodcares1011@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="60"/>
-<br>
-<a href="https://linkedin.com/in/godcares-ndubuisi-79928120a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/clouds/100/000000/github.png" width="60"/>
-<br>
-<a href="https://github.com/Ndubuisi-Godcares">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-</tr>
-</table>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndubuisigodcares1011@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/godcares-ndubuisi-79928120a)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Godcares-Chibuokem-Ndubuisi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ndubuisi-Godcares)
 
 <br>
 
@@ -245,11 +141,13 @@ me = AIEngineer()
 
 ### 💭 **Philosophy**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Opportunities%20are%20intertwined%20with%20risks%3B%20I%20choose%20to%20embrace%20the%20risk%20and%20pursue%20it%20all.&author=Godcares%20Ndubuisi" alt="Quote"/>
+> **"Opportunities are intertwined with risks; I choose to embrace the risk and pursue it all."**
+> 
+> *— Godcares Ndubuisi*
 
-<br><br>
+<br>
 
-**⚡ "Building the future, one neural network at a time"**
+**⚡ "Building the future, one neural network at a time" ⚡**
 
 </div>
 
@@ -262,6 +160,8 @@ me = AIEngineer()
   
 **Made with ❤️ and ☕ by Godcares Ndubuisi**
 
-![snake gif](https://github.com/Ndubuisi-Godcares/Ndubuisi-Godcares/blob/output/github-contribution-grid-snake.svg)
+<br>
+
+![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
 
 </div>
