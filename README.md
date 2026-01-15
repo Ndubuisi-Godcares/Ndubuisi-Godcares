@@ -12,7 +12,10 @@
 
 </div>
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ndubuisi-Godcares/Ndubuisi-Godcares/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 `Reinforcement Learning` &nbsp; `Self-Adaptive AI` &nbsp; `LLM Systems` &nbsp; `FinTech Intelligence` &nbsp; `AI Security` &nbsp; `Applied Research`
 
