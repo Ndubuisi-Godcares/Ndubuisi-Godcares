@@ -12,11 +12,7 @@
 
 </div>
 
----
-
 <div align="center">
-
-### **Specializations**
 
 `Reinforcement Learning` &nbsp; `Self-Adaptive AI` &nbsp; `LLM Systems` &nbsp; `FinTech Intelligence` &nbsp; `AI Security` &nbsp; `Applied Research`
 
@@ -55,13 +51,6 @@ class AIEngineer:
 
 me = AIEngineer()
 ```
-
-<div align="center">
-
-**🎯 From research to production, I bridge theory and application to create AI systems that matter.**
-
-</div>
-
 ---
 
 ## **Education**
@@ -78,7 +67,7 @@ me = AIEngineer()
 
 ---
 
-## 🔬 Domain Expertise
+## Domain Expertise
 
 | Category | Focus Areas |
 | :--- | :--- |
@@ -95,7 +84,7 @@ me = AIEngineer()
 
 ---
 
-## 🛠 Technical Stack
+## Technical Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -110,7 +99,7 @@ me = AIEngineer()
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
 ---
-## 📈 **Contribution Graph**
+## **Contribution Graph**
 
 <div align="center">
 
@@ -119,9 +108,6 @@ me = AIEngineer()
 </div>
 
 ---
-
-## 🌟 **Connect & Collaborate**
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndubuisigodcares1011@gmail.com)
@@ -131,7 +117,7 @@ me = AIEngineer()
 
 <br>
 
-### 💬 **Open to Research Collaborations & Opportunities**
+##### **Open to Research Collaborations & Opportunities**
 
 </div>
 
@@ -139,7 +125,7 @@ me = AIEngineer()
 
 <div align="center">
 
-### 💭 **Philosophy**
+### **Philosophy**
 
 > **"Opportunities are intertwined with risks; I choose to embrace the risk and pursue it all."**
 > 
@@ -157,8 +143,6 @@ me = AIEngineer()
 ---
 
 <div align="center">
-  
-**Made with ❤️ and ☕ by Godcares Ndubuisi**
 
 <br>
 
