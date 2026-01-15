@@ -29,6 +29,7 @@
 class AIEngineer:
     def __init__(self):
         self.name = "Godcares Ndubuisi"
+        self.education = "B.Tech Artificial Intelligence and Machine Learning"
         self.role = "AI Engineer & Researcher"
         self.experience = "2+ years"
         self.current_position = "AI Intern @ LTID"
@@ -54,36 +55,10 @@ class AIEngineer:
 
 me = AIEngineer()
 ```
----
-
-## **Education**
-
-**Degree:** Graduate in Artificial Intelligence and Machine Learning (AIML)
-
-**Institution:** [Symbiosis Institute of Technology (SIT)](https://www.sitpune.edu.in/), [Symbiosis International University (SIU)](https://siu.edu.in/)
-
-<br>
-
-[![Campus Tour](https://img.shields.io/badge/🎥_Campus_Tour-Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/XTDdrLlRRdw)
-
-</div>
-
----
-
-## Domain Expertise
-
-| Category | Focus Areas |
-| :--- | :--- |
-| **Professional** | Industrial Scheduling, FinTech (Algo-trading), LLM Optimization |
-| **Research** | AI in Cybersecurity, AI in Healthcare, Predictive Modeling |
-| **Core Tech** | Machine Learning, Deep Learning, Reinforcement Learning |
-
 <br>
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Godcares-Chibuokem-Ndubuisi/research)
 [![Publications](https://img.shields.io/badge/📄_View_Full-Research_History-00CCBB?style=for-the-badge)](https://www.researchgate.net/profile/Godcares-Chibuokem-Ndubuisi/research)
-
-</div>
 
 ---
 
@@ -121,10 +96,7 @@ me = AIEngineer()
 <br>
 
 ##### **Open to Research Collaborations & Opportunities**
-
 </div>
-
----
 
 <div align="center">
 
@@ -144,12 +116,3 @@ me = AIEngineer()
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 ---
-![snake gif](https://raw.githubusercontent.com/Ndubuisi-Godcares/Ndubuisi-Godcares/output/github-snake.svg)
-
-<div align="center">
-
-<br>
-
-![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
-
-</div>
