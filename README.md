@@ -87,9 +87,9 @@ me = AIEngineer()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ndubuisi-Godcares&bg_color=0a0e27&color=22d3ee&line=38bdf8&point=67e8f9&hide_border=true" />
 </p>
 
-
 </div>
 
+![Godcares's Activity](https://github-readme-activity-graph.vercel.app/graph?username=Ndubuisi-Godcares&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&hide_border=true)
 ---
 <div align="center">
 
