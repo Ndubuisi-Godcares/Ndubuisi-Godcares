@@ -3,14 +3,19 @@ name: GitHub-Profile-Summary-Cards
 on:
   schedule: # Execute automatically every 24 hours
     - cron: "* */24 * * *"
-  workflow_dispatch: # Allows you to run it manually from the Actions tab
+  workflow_dispatch: # Allows you to run it manually
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
+    
+    # THIS IS THE FIX FOR ERROR 128
+    permissions:
+      contents: write 
+
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Bumped to v4 to clear the Node.js warning
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
