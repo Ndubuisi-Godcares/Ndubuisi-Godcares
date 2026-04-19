@@ -79,21 +79,13 @@ me = AIEngineer()
 
 ---
 
-## **Activity Overview**
-
-<div align="center">
-
-<img src="./assets/activity-radar.svg" alt="Activity Radar" />
-
-</div>
-
----
-
 ## **Contribution Graph**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ndubuisi-Godcares&bg_color=0a0e27&color=22d3ee&line=38bdf8&point=67e8f9&hide_border=true" alt="Contribution Graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ndubuisi-Godcares&bg_color=0a0e27&color=22d3ee&line=38bdf8&point=67e8f9&hide_border=true" />
+</p>
 
 </div>
 
