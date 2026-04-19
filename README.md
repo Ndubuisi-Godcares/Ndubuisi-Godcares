@@ -16,12 +16,13 @@
   <img src="https://raw.githubusercontent.com/Ndubuisi-Godcares/Ndubuisi-Godcares/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align = "center"
+<p align="center">
   
   `Reinforcement Learning` &nbsp; `Self-Adaptive AI` &nbsp; `LLM Systems` &nbsp; `FinTech Intelligence` &nbsp; `AI Security` &nbsp; `Applied Research`
 
 </p>
-</div>
+
+---
 
 ## **About Me**
 
@@ -77,16 +78,27 @@ me = AIEngineer()
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
 ---
+
+## **Activity Overview**
+
+<div align="center">
+
+<img src="./assets/activity-radar.svg" alt="Activity Radar" />
+
+</div>
+
+---
+
 ## **Contribution Graph**
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ndubuisi-Godcares&bg_color=0a0e27&color=22d3ee&line=38bdf8&point=67e8f9&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ndubuisi-Godcares&bg_color=0a0e27&color=22d3ee&line=38bdf8&point=67e8f9&hide_border=true" alt="Contribution Graph" />
 
 </div>
+
 ---
+
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndubuisigodcares1011@gmail.com)
@@ -97,6 +109,7 @@ me = AIEngineer()
 <br>
 
 ##### **Open to Research Collaborations & Opportunities**
+
 </div>
 
 <div align="center">
@@ -115,5 +128,3 @@ me = AIEngineer()
 
 <!-- 3D Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
----
