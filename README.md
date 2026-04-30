@@ -18,7 +18,7 @@
 
 <p align="center">
   
-  `Reinforcement Learning` &nbsp; `Self-Adaptive AI` &nbsp; `LLM Systems` &nbsp; `FinTech Intelligence` &nbsp; `AI Security` &nbsp; `Applied Research`
+  `MILP & SCIP` &nbsp; `Reinforcement Learning` &nbsp; `Self-Adaptive AI` &nbsp; `LLM Systems` &nbsp; `FinTech Intelligence` &nbsp; `AI Security` &nbsp; `Applied Research`&nbsp; `DQN`
 
 </p>
 
