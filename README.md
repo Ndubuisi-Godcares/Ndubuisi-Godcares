@@ -17,9 +17,7 @@
 </p>
 
 <p align="center">
-  
-  `MILP & SCIP` &nbsp; `Reinforcement Learning` &nbsp; `Self-Adaptive AI` &nbsp; `LLM Systems` &nbsp; `FinTech Intelligence` &nbsp; `AI Security` &nbsp; `Applied Research`&nbsp; `DQN`
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1500&color=22D3EE&center=true&vCenter=true&width=900&height=40&lines=MILP+%26+SCIP+%E2%80%A2+Reinforcement+Learning+%E2%80%A2+Self-Adaptive+AI;LLM+Systems+%E2%80%A2+FinTech+Intelligence+%E2%80%A2+AI+Security;Applied+Research+%E2%80%A2+DQN+%E2%80%A2+Industrial+AI" alt="Animated Skills" />
 </p>
 
 ---
