@@ -22,6 +22,8 @@
 
 ---
 
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+
 ## **About Me**
 
 ```python
@@ -40,7 +42,7 @@ class AIEngineer:
         ]
         self.domains = {
             "primary": ["AI", "Machine Learning", "Deep Learning"],
-            "applied": ["Cybersecurity", "FinTech", "Healthcare"],
+            "applied": ["Cybersecurity", "Healthcare"],
             "research": ["Reinforcement Learning", "LLM Optimization"]
         }
     
