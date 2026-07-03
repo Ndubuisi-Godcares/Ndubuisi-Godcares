@@ -91,6 +91,18 @@ me = AIEngineer()
 
 ---
 
+## **Activity Radar**
+
+<div align="center">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ndubuisi-Godcares/Ndubuisi-Godcares/main/assets/activity-radar.svg" />
+</p>
+
+</div>
+
+---
+
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndubuisigodcares1011@gmail.com)
