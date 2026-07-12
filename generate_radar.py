@@ -68,7 +68,7 @@ def fetch_all_stats():
 def format_pct(pct):
     rounded = round(pct * 100)
     if pct > 0 and rounded == 0:
-        return "<1%"
+        return "&lt;1%"
     return f"{rounded}%"
 
 def make_radar_svg(stats):
