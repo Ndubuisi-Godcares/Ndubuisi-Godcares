@@ -65,6 +65,12 @@ def fetch_all_stats():
     print(f"All-time totals: {totals}")
     return totals
 
+def format_pct(pct):
+    rounded = round(pct * 100)
+    if pct > 0 and rounded == 0:
+        return "<1%"
+    return f"{rounded}%"
+
 def make_radar_svg(stats):
     total = sum(stats.values()) or 1
     commits_pct = stats["commits"] / total
@@ -75,10 +81,10 @@ def make_radar_svg(stats):
     cx, cy, r_max = 220, 185, 110
 
     axes = [
-        (cx,           cy - r_max, reviews_pct, f"{round(reviews_pct*100)}%", "Code review",  "middle",  0,  -18),
-        (cx + r_max,   cy,         issues_pct,  f"{round(issues_pct*100)}%",  "Issues",       "start",   14,   0),
-        (cx,           cy + r_max, prs_pct,     f"{round(prs_pct*100)}%",     "Pull requests","middle",  0,   20),
-        (cx - r_max,   cy,         commits_pct, f"{round(commits_pct*100)}%", "Commits",      "end",    -14,   0),
+        (cx,           cy - r_max, reviews_pct, format_pct(reviews_pct), "Code review",  "middle",  0,  -18),
+        (cx + r_max,   cy,         issues_pct,  format_pct(issues_pct),  "Issues",       "start",   14,   0),
+        (cx,           cy + r_max, prs_pct,     format_pct(prs_pct),     "Pull requests","middle",  0,   20),
+        (cx - r_max,   cy,         commits_pct, format_pct(commits_pct), "Commits",      "end",    -14,   0),
     ]
 
     pts = []
