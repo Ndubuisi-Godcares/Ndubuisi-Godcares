@@ -7,11 +7,11 @@
   
   <line x1="220" y1="75" x2="220" y2="295" stroke="#21262d" stroke-width="1"/>
   <line x1="110" y1="185" x2="330" y2="185" stroke="#21262d" stroke-width="1"/>
-  <polygon points="220.00,185.00 220.00,185.00 220.00,191.68 116.68,185.00" fill="rgba(57,211,83,0.2)" stroke="#39d353" stroke-width="1.5"/>
+  <polygon points="220.00,185.00 220.00,185.00 220.00,191.88 116.88,185.00" fill="rgba(57,211,83,0.2)" stroke="#39d353" stroke-width="1.5"/>
   <circle cx="220.00" cy="185.00" r="4" fill="#39d353"/>
     <circle cx="220.00" cy="185.00" r="4" fill="#39d353"/>
-    <circle cx="220.00" cy="191.68" r="4" fill="#39d353"/>
-    <circle cx="116.68" cy="185.00" r="4" fill="#39d353"/>
+    <circle cx="220.00" cy="191.88" r="4" fill="#39d353"/>
+    <circle cx="116.88" cy="185.00" r="4" fill="#39d353"/>
     
   <text x="220" y="43" text-anchor="middle" font-family="monospace" font-size="13" fill="#e6edf3" font-weight="500">0%</text>
     <text x="220" y="59" text-anchor="middle" font-family="monospace" font-size="11" fill="#8b949e">Code review</text>
@@ -22,5 +22,5 @@
     <text x="96" y="171" text-anchor="end" font-family="monospace" font-size="13" fill="#e6edf3" font-weight="500">94%</text>
     <text x="96" y="187" text-anchor="end" font-family="monospace" font-size="11" fill="#8b949e">Commits</text>
     
-  <text x="220" y="355" text-anchor="middle" font-family="monospace" font-size="10" fill="#484f58">updated 2026-07-27 · all-time contributions</text>
+  <text x="220" y="355" text-anchor="middle" font-family="monospace" font-size="10" fill="#484f58">updated 2026-07-28 · all-time contributions</text>
 </svg>
